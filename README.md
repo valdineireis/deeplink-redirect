@@ -1,5 +1,7 @@
 # deeplink-redirect
 
+🔗 [Copie e informe o deeplink](https://deeplink-redirect-1059480473666.us-central1.run.app/redirect?deeplink=)
+
 ### Execute os testes:
 
 ```bash
